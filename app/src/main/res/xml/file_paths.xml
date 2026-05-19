@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- getExternalFilesDir(DIRECTORY_PICTURES) -->
+    <external-files-path name="my_images" path="Pictures/" />
+    <!-- any other external-files-path subdirectory -->
+    <external-files-path name="external_files_root" path="." />
+    <!-- internal files -->
+    <files-path name="internal_files" path="." />
+    <!-- external cache -->
+    <external-cache-path name="external_cache" path="." />
+</paths>
